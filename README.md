@@ -45,7 +45,9 @@ This Excel dashboard was created to help the telesales team supervisor monitor t
 
 
 
-![](https://github.com/EimanDaoud/Power-BI-Projects/blob/main/bank%20loan%201.png?raw=true)
+![](https://github.com/EimanDaoud/Excel_Dashboard/blob/main/Dashboard_Jan.png?raw=true)
+![](https://github.com/EimanDaoud/Excel_Dashboard/blob/main/Dashboard_Feb.png?raw=true)
+
 
 
 
